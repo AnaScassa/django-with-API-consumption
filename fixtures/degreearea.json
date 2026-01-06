@@ -1,0 +1,50 @@
+[
+{
+    "model": "users.degreearea",
+    "pk": 1,
+    "fields": {
+        "area": "Electrical Engineering"
+    }
+},
+{
+    "model": "users.degreearea",
+    "pk": 2,
+    "fields": {
+        "area": "Mechanical Engineering"
+    }
+},
+{
+    "model": "users.degreearea",
+    "pk": 3,
+    "fields": {
+        "area": "Chemical Engineering"
+    }
+},
+{
+    "model": "users.degreearea",
+    "pk": 4,
+    "fields": {
+        "area": "Biology"
+    }
+},
+{
+    "model": "users.degreearea",
+    "pk": 5,
+    "fields": {
+        "area": "Chemistry"
+    }
+},
+{
+    "model": "users.degreearea",
+    "pk": 6,
+    "fields": {
+        "area": "Physics"
+    }
+},
+{
+    "model": "users.degreearea",
+    "pk": 7,
+    "fields": {
+        "area": "Medical"
+    }
+}]

@@ -1,0 +1,1028 @@
+[
+{
+    "model": "users.safetytraining",
+    "pk": 17,
+    "fields": {
+        "completion_date": "2024-04-18T00:00:00Z",
+        "expiration_date": "2025-05-03T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 34,
+    "fields": {
+        "completion_date": "2022-03-23T00:00:00Z",
+        "expiration_date": "2023-04-07T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 68,
+    "fields": {
+        "completion_date": "2023-01-09T00:00:00Z",
+        "expiration_date": "2024-01-24T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 109,
+    "fields": {
+        "completion_date": "2022-11-01T00:00:00Z",
+        "expiration_date": "2023-11-16T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 204,
+    "fields": {
+        "completion_date": "2022-05-26T00:00:00Z",
+        "expiration_date": "2023-06-10T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 230,
+    "fields": {
+        "completion_date": "2022-09-09T00:00:00Z",
+        "expiration_date": "2023-09-24T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 305,
+    "fields": {
+        "completion_date": "2024-04-03T00:00:00Z",
+        "expiration_date": "2025-04-18T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 315,
+    "fields": {
+        "completion_date": "2024-04-03T00:00:00Z",
+        "expiration_date": "2025-04-18T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 354,
+    "fields": {
+        "completion_date": "2023-04-18T00:00:00Z",
+        "expiration_date": "2024-05-02T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 392,
+    "fields": {
+        "completion_date": "2024-08-08T00:00:00Z",
+        "expiration_date": "2025-08-23T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 393,
+    "fields": {
+        "completion_date": "2022-06-16T00:00:00Z",
+        "expiration_date": "2023-07-01T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 406,
+    "fields": {
+        "completion_date": "2021-10-18T00:00:00Z",
+        "expiration_date": "2022-11-02T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 408,
+    "fields": {
+        "completion_date": "2021-11-05T00:00:00Z",
+        "expiration_date": "2022-11-20T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 409,
+    "fields": {
+        "completion_date": "2022-01-29T00:00:00Z",
+        "expiration_date": "2023-02-13T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 410,
+    "fields": {
+        "completion_date": "2022-02-09T00:00:00Z",
+        "expiration_date": "2023-02-24T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 412,
+    "fields": {
+        "completion_date": "2022-03-17T00:00:00Z",
+        "expiration_date": "2023-04-01T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 413,
+    "fields": {
+        "completion_date": "2022-03-24T00:00:00Z",
+        "expiration_date": "2023-04-08T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 414,
+    "fields": {
+        "completion_date": "2022-03-25T00:00:00Z",
+        "expiration_date": "2023-04-09T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 415,
+    "fields": {
+        "completion_date": "2022-03-29T00:00:00Z",
+        "expiration_date": "2023-04-13T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 419,
+    "fields": {
+        "completion_date": "2022-04-06T00:00:00Z",
+        "expiration_date": "2023-04-21T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 420,
+    "fields": {
+        "completion_date": "2022-04-12T00:00:00Z",
+        "expiration_date": "2023-04-27T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 422,
+    "fields": {
+        "completion_date": "2022-04-25T00:00:00Z",
+        "expiration_date": "2023-05-10T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 424,
+    "fields": {
+        "completion_date": "2022-05-05T00:00:00Z",
+        "expiration_date": "2023-05-20T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 425,
+    "fields": {
+        "completion_date": "2022-05-11T00:00:00Z",
+        "expiration_date": "2023-05-26T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 426,
+    "fields": {
+        "completion_date": "2022-06-15T00:00:00Z",
+        "expiration_date": "2023-06-30T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 428,
+    "fields": {
+        "completion_date": "2022-06-21T00:00:00Z",
+        "expiration_date": "2023-07-06T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 429,
+    "fields": {
+        "completion_date": "2022-06-21T00:00:00Z",
+        "expiration_date": "2023-07-06T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 430,
+    "fields": {
+        "completion_date": "2022-06-23T00:00:00Z",
+        "expiration_date": "2023-07-08T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 431,
+    "fields": {
+        "completion_date": "2022-07-16T00:00:00Z",
+        "expiration_date": "2023-07-31T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 432,
+    "fields": {
+        "completion_date": "2022-08-01T00:00:00Z",
+        "expiration_date": "2023-08-16T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 434,
+    "fields": {
+        "completion_date": "2022-08-15T00:00:00Z",
+        "expiration_date": "2023-08-30T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 436,
+    "fields": {
+        "completion_date": "2022-09-16T00:00:00Z",
+        "expiration_date": "2023-10-01T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 437,
+    "fields": {
+        "completion_date": "2022-09-26T00:00:00Z",
+        "expiration_date": "2023-10-11T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 438,
+    "fields": {
+        "completion_date": "2022-10-07T00:00:00Z",
+        "expiration_date": "2023-10-22T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 440,
+    "fields": {
+        "completion_date": "2022-10-26T00:00:00Z",
+        "expiration_date": "2023-11-10T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 441,
+    "fields": {
+        "completion_date": "2022-10-28T00:00:00Z",
+        "expiration_date": "2023-11-12T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 443,
+    "fields": {
+        "completion_date": "2022-11-18T00:00:00Z",
+        "expiration_date": "2023-12-03T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 444,
+    "fields": {
+        "completion_date": "2022-11-18T00:00:00Z",
+        "expiration_date": "2023-12-03T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 447,
+    "fields": {
+        "completion_date": "2022-12-19T00:00:00Z",
+        "expiration_date": "2024-01-03T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 449,
+    "fields": {
+        "completion_date": "2023-01-09T00:00:00Z",
+        "expiration_date": "2024-01-24T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 451,
+    "fields": {
+        "completion_date": "2023-01-27T00:00:00Z",
+        "expiration_date": "2024-02-11T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 453,
+    "fields": {
+        "completion_date": "2023-02-06T00:00:00Z",
+        "expiration_date": "2024-02-21T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 454,
+    "fields": {
+        "completion_date": "2023-02-16T00:00:00Z",
+        "expiration_date": "2024-03-02T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 455,
+    "fields": {
+        "completion_date": "2023-02-27T00:00:00Z",
+        "expiration_date": "2024-03-13T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 456,
+    "fields": {
+        "completion_date": "2023-03-06T00:00:00Z",
+        "expiration_date": "2024-03-20T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 457,
+    "fields": {
+        "completion_date": "2023-03-20T00:00:00Z",
+        "expiration_date": "2024-04-03T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 458,
+    "fields": {
+        "completion_date": "2023-03-23T00:00:00Z",
+        "expiration_date": "2024-04-06T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 459,
+    "fields": {
+        "completion_date": "2023-03-27T00:00:00Z",
+        "expiration_date": "2024-04-10T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 460,
+    "fields": {
+        "completion_date": "2023-05-03T00:00:00Z",
+        "expiration_date": "2024-05-17T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 462,
+    "fields": {
+        "completion_date": "2023-05-04T00:00:00Z",
+        "expiration_date": "2024-05-18T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 463,
+    "fields": {
+        "completion_date": "2023-05-26T00:00:00Z",
+        "expiration_date": "2024-06-09T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 464,
+    "fields": {
+        "completion_date": "2023-06-20T00:00:00Z",
+        "expiration_date": "2024-07-04T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 466,
+    "fields": {
+        "completion_date": "2023-07-27T00:00:00Z",
+        "expiration_date": "2024-08-10T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 469,
+    "fields": {
+        "completion_date": "2023-08-10T00:00:00Z",
+        "expiration_date": "2024-08-24T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 470,
+    "fields": {
+        "completion_date": "2023-08-11T00:00:00Z",
+        "expiration_date": "2024-08-25T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 471,
+    "fields": {
+        "completion_date": "2023-08-25T00:00:00Z",
+        "expiration_date": "2024-09-08T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 472,
+    "fields": {
+        "completion_date": "2023-08-29T00:00:00Z",
+        "expiration_date": "2024-09-12T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 473,
+    "fields": {
+        "completion_date": "2023-08-31T00:00:00Z",
+        "expiration_date": "2024-09-14T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 474,
+    "fields": {
+        "completion_date": "2023-09-05T00:00:00Z",
+        "expiration_date": "2024-09-19T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 475,
+    "fields": {
+        "completion_date": "2023-09-12T00:00:00Z",
+        "expiration_date": "2024-09-26T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 477,
+    "fields": {
+        "completion_date": "2023-09-20T00:00:00Z",
+        "expiration_date": "2024-10-04T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 478,
+    "fields": {
+        "completion_date": "2023-09-27T00:00:00Z",
+        "expiration_date": "2024-10-11T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 479,
+    "fields": {
+        "completion_date": "2023-10-26T00:00:00Z",
+        "expiration_date": "2024-11-09T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 480,
+    "fields": {
+        "completion_date": "2023-10-31T00:00:00Z",
+        "expiration_date": "2024-11-14T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 481,
+    "fields": {
+        "completion_date": "2023-11-16T00:00:00Z",
+        "expiration_date": "2024-11-30T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 482,
+    "fields": {
+        "completion_date": "2023-11-22T00:00:00Z",
+        "expiration_date": "2024-12-06T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 483,
+    "fields": {
+        "completion_date": "2023-12-19T00:00:00Z",
+        "expiration_date": "2025-01-02T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 485,
+    "fields": {
+        "completion_date": "2024-01-24T00:00:00Z",
+        "expiration_date": "2025-02-07T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 487,
+    "fields": {
+        "completion_date": "2024-02-02T00:00:00Z",
+        "expiration_date": "2025-02-16T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 488,
+    "fields": {
+        "completion_date": "2024-02-02T00:00:00Z",
+        "expiration_date": "2025-02-16T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 490,
+    "fields": {
+        "completion_date": "2024-02-06T00:00:00Z",
+        "expiration_date": "2025-02-20T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 491,
+    "fields": {
+        "completion_date": "2024-02-15T00:00:00Z",
+        "expiration_date": "2025-03-01T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 492,
+    "fields": {
+        "completion_date": "2024-02-16T00:00:00Z",
+        "expiration_date": "2025-03-02T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 493,
+    "fields": {
+        "completion_date": "2024-02-21T00:00:00Z",
+        "expiration_date": "2025-03-07T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 494,
+    "fields": {
+        "completion_date": "2024-02-27T00:00:00Z",
+        "expiration_date": "2025-03-13T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 496,
+    "fields": {
+        "completion_date": "2024-03-01T00:00:00Z",
+        "expiration_date": "2025-03-16T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 497,
+    "fields": {
+        "completion_date": "2024-03-27T00:00:00Z",
+        "expiration_date": "2025-04-11T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 498,
+    "fields": {
+        "completion_date": "2024-04-24T00:00:00Z",
+        "expiration_date": "2025-05-09T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 500,
+    "fields": {
+        "completion_date": "2024-05-02T00:00:00Z",
+        "expiration_date": "2025-05-17T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 501,
+    "fields": {
+        "completion_date": "2024-05-03T00:00:00Z",
+        "expiration_date": "2025-05-18T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 503,
+    "fields": {
+        "completion_date": "2024-05-14T00:00:00Z",
+        "expiration_date": "2025-05-29T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 504,
+    "fields": {
+        "completion_date": "2024-05-24T00:00:00Z",
+        "expiration_date": "2025-06-08T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 505,
+    "fields": {
+        "completion_date": "2024-06-04T00:00:00Z",
+        "expiration_date": "2025-06-19T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 507,
+    "fields": {
+        "completion_date": "2024-06-05T00:00:00Z",
+        "expiration_date": "2025-06-20T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 511,
+    "fields": {
+        "completion_date": "2024-08-05T00:00:00Z",
+        "expiration_date": "2025-08-20T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 512,
+    "fields": {
+        "completion_date": "2024-08-06T00:00:00Z",
+        "expiration_date": "2025-08-21T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 513,
+    "fields": {
+        "completion_date": "2024-08-23T00:00:00Z",
+        "expiration_date": "2025-09-07T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 514,
+    "fields": {
+        "completion_date": "2024-09-10T00:00:00Z",
+        "expiration_date": "2025-09-25T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 515,
+    "fields": {
+        "completion_date": "2024-09-17T00:00:00Z",
+        "expiration_date": "2025-10-02T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 516,
+    "fields": {
+        "completion_date": "2024-09-20T00:00:00Z",
+        "expiration_date": "2025-10-05T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 518,
+    "fields": {
+        "completion_date": "2024-10-03T00:00:00Z",
+        "expiration_date": "2025-10-18T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 519,
+    "fields": {
+        "completion_date": "2024-10-03T00:00:00Z",
+        "expiration_date": "2025-10-18T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 520,
+    "fields": {
+        "completion_date": "2024-10-10T00:00:00Z",
+        "expiration_date": "2025-10-25T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 521,
+    "fields": {
+        "completion_date": "2024-10-13T00:00:00Z",
+        "expiration_date": "2025-10-28T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 522,
+    "fields": {
+        "completion_date": "2024-10-14T00:00:00Z",
+        "expiration_date": "2025-10-29T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 525,
+    "fields": {
+        "completion_date": "2024-10-29T00:00:00Z",
+        "expiration_date": "2025-11-13T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 528,
+    "fields": {
+        "completion_date": "2024-11-11T00:00:00Z",
+        "expiration_date": "2025-11-26T00:00:00Z",
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 530,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 531,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 534,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 535,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 538,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": ""
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 539,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": ""
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 543,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": "Training required for project: FabricaþÒo de MetasuperfÝcies Fot¶nicas para IluminaþÒo P·blica Inteligente"
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 544,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": ""
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 545,
+    "fields": {
+        "completion_date": "2025-10-23T18:27:54.938Z",
+        "expiration_date": "2026-10-23T18:27:54.938Z",
+        "notes": ""
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 548,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": "Training required for project: Microfluidic Sensors Applied to Water Monitoring and Lab-On-A-Chip Applications"
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 549,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": "Training required for project: Preparation of Inorganic Samples by FIB-SEM Micromanipulation for 3D Coherent X-ray Imaging"
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 550,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": "Training required for project: Effects of low dimensionality on advanced quantum materials"
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 551,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": "Training required for project: Device fabrication for CsV3Sb5 thin flake measurement"
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 558,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 560,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 562,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": "Training required for project: "
+    }
+},
+{
+    "model": "users.safetytraining",
+    "pk": 563,
+    "fields": {
+        "completion_date": null,
+        "expiration_date": null,
+        "notes": "Training required for project: "
+    }
+}
+]

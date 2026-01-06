@@ -1,0 +1,4697 @@
+[
+{
+    "model": "users.userprofile",
+    "pk": 2,
+    "fields": {
+        "academic_id": "sem registro",
+        "phone": "",
+        "emergency_contact": "Semira de Camargo Penteado Flacker (esposa)",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 3,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 4,
+    "fields": {
+        "academic_id": "70030",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 6,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 8,
+    "fields": {
+        "academic_id": "49315",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 9,
+    "fields": {
+        "academic_id": "123241",
+        "phone": "",
+        "emergency_contact": "AROLDO OU F┴TIMA",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 11,
+    "fields": {
+        "academic_id": "104534",
+        "phone": "",
+        "emergency_contact": "Mßrcia Airemoraes",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 13,
+    "fields": {
+        "academic_id": "134149",
+        "phone": "",
+        "emergency_contact": "+55(19)81194093",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 15,
+    "fields": {
+        "academic_id": "90379",
+        "phone": "",
+        "emergency_contact": "Jefferson Malavazi",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 17,
+    "fields": {
+        "academic_id": "------",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 20,
+    "fields": {
+        "academic_id": "88650",
+        "phone": "",
+        "emergency_contact": "(19)91943746",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 22,
+    "fields": {
+        "academic_id": "Mat. 16504-2",
+        "phone": "",
+        "emergency_contact": "Elaine Fernanda",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 23,
+    "fields": {
+        "academic_id": "42122",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 24,
+    "fields": {
+        "academic_id": "31622",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 25,
+    "fields": {
+        "academic_id": "120818",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 26,
+    "fields": {
+        "academic_id": "142354",
+        "phone": "",
+        "emergency_contact": "Maria Aparecida",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 28,
+    "fields": {
+        "academic_id": "38201",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 30,
+    "fields": {
+        "academic_id": "Don't have one yet",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 32,
+    "fields": {
+        "academic_id": "85407",
+        "phone": "",
+        "emergency_contact": "Lourdes",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 33,
+    "fields": {
+        "academic_id": "70601",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 34,
+    "fields": {
+        "academic_id": "114895",
+        "phone": "",
+        "emergency_contact": "(19) 3521-3704",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 36,
+    "fields": {
+        "academic_id": "---------",
+        "phone": "",
+        "emergency_contact": "19 9360-1736",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 38,
+    "fields": {
+        "academic_id": "120637",
+        "phone": "",
+        "emergency_contact": "551934635547",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 39,
+    "fields": {
+        "academic_id": "76237",
+        "phone": "",
+        "emergency_contact": "Paulo JosÚ dos Santos",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 41,
+    "fields": {
+        "academic_id": "23779",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 42,
+    "fields": {
+        "academic_id": "121444",
+        "phone": "",
+        "emergency_contact": "Daniela",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 43,
+    "fields": {
+        "academic_id": "143243",
+        "phone": "",
+        "emergency_contact": "Arilce",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 44,
+    "fields": {
+        "academic_id": "304459",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": [
+            1,
+            6
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 46,
+    "fields": {
+        "academic_id": "71086",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 48,
+    "fields": {
+        "academic_id": "69585",
+        "phone": "",
+        "emergency_contact": "Jeovnka Tavares Pinheiro",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 49,
+    "fields": {
+        "academic_id": "142422",
+        "phone": "",
+        "emergency_contact": "551999415310",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 50,
+    "fields": {
+        "academic_id": "134134",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 51,
+    "fields": {
+        "academic_id": "57992",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 52,
+    "fields": {
+        "academic_id": "------",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 53,
+    "fields": {
+        "academic_id": "212288",
+        "phone": "",
+        "emergency_contact": "82519391",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 54,
+    "fields": {
+        "academic_id": "9006",
+        "phone": "",
+        "emergency_contact": "Nair Kaoru Umehara",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 55,
+    "fields": {
+        "academic_id": "91807",
+        "phone": "",
+        "emergency_contact": "32284460",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 57,
+    "fields": {
+        "academic_id": "79905",
+        "phone": "",
+        "emergency_contact": "+55 (19) 3521-3880",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 59,
+    "fields": {
+        "academic_id": "77532",
+        "phone": "",
+        "emergency_contact": "Tathiana Reis",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 60,
+    "fields": {
+        "academic_id": "106802",
+        "phone": "",
+        "emergency_contact": "SebastiÒo Galanti",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 61,
+    "fields": {
+        "academic_id": "44788",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 62,
+    "fields": {
+        "academic_id": "24424",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 63,
+    "fields": {
+        "academic_id": "109270",
+        "phone": "",
+        "emergency_contact": "Andrea Canesqui",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 64,
+    "fields": {
+        "academic_id": "N├O TENHO",
+        "phone": "",
+        "emergency_contact": "(19) 96096240",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 66,
+    "fields": {
+        "academic_id": "45112",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 67,
+    "fields": {
+        "academic_id": "5117",
+        "phone": "",
+        "emergency_contact": "Marcel Vasconcelos",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 68,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 70,
+    "fields": {
+        "academic_id": "35157",
+        "phone": "",
+        "emergency_contact": "Antonio Carlos",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 71,
+    "fields": {
+        "academic_id": "24821",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 72,
+    "fields": {
+        "academic_id": "297798",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 73,
+    "fields": {
+        "academic_id": "120084",
+        "phone": "",
+        "emergency_contact": "Rosana Botter Maio Lopes Rodrigues",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 75,
+    "fields": {
+        "academic_id": "106940",
+        "phone": "",
+        "emergency_contact": "Adelina Ohashi",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 76,
+    "fields": {
+        "academic_id": "142387",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 77,
+    "fields": {
+        "academic_id": "77067",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 78,
+    "fields": {
+        "academic_id": "142353",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 79,
+    "fields": {
+        "academic_id": "84172",
+        "phone": "",
+        "emergency_contact": "Antonio Carlos da Fonseca",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 81,
+    "fields": {
+        "academic_id": "Outros",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 82,
+    "fields": {
+        "academic_id": "don't have",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 83,
+    "fields": {
+        "academic_id": "945261",
+        "phone": "",
+        "emergency_contact": "Renata",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 84,
+    "fields": {
+        "academic_id": "97149",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 85,
+    "fields": {
+        "academic_id": "Post-doc in process of registration at the unit",
+        "phone": "",
+        "emergency_contact": "M¶nica A.Cotta",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 87,
+    "fields": {
+        "academic_id": "15350-8",
+        "phone": "",
+        "emergency_contact": "CecÝlia",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 88,
+    "fields": {
+        "academic_id": "142355",
+        "phone": "",
+        "emergency_contact": "Sandra Regina Macedo Rosa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 89,
+    "fields": {
+        "academic_id": "302734",
+        "phone": "",
+        "emergency_contact": "Renata Dainese- Esposa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 90,
+    "fields": {
+        "academic_id": "91398",
+        "phone": "",
+        "emergency_contact": "Maria Luiza F¾rnias Machado de Rezende",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 91,
+    "fields": {
+        "academic_id": "71825",
+        "phone": "",
+        "emergency_contact": "Daniel Robson Pinto",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 92,
+    "fields": {
+        "academic_id": "101302",
+        "phone": "",
+        "emergency_contact": "Deborah Ricardo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 93,
+    "fields": {
+        "academic_id": "nÒo tenho ainda",
+        "phone": "",
+        "emergency_contact": "+55 19 8242 9445",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 94,
+    "fields": {
+        "academic_id": "81634",
+        "phone": "",
+        "emergency_contact": "Mßrcia Cristina Feliciano da Costa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 96,
+    "fields": {
+        "academic_id": "302029",
+        "phone": "",
+        "emergency_contact": "Beatriz (mÒe)",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 97,
+    "fields": {
+        "academic_id": "116142",
+        "phone": "",
+        "emergency_contact": "(16)3701-0951",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 98,
+    "fields": {
+        "academic_id": "123268",
+        "phone": "",
+        "emergency_contact": "Teresa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 99,
+    "fields": {
+        "academic_id": "936270",
+        "phone": "",
+        "emergency_contact": "Guiomar Cuyabano",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 100,
+    "fields": {
+        "academic_id": "134142",
+        "phone": "",
+        "emergency_contact": "+55 (11) 9590-6969",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 101,
+    "fields": {
+        "academic_id": "117684",
+        "phone": "",
+        "emergency_contact": "Ednea Rosa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 102,
+    "fields": {
+        "academic_id": "jleoner@gmail.com",
+        "phone": "",
+        "emergency_contact": "+55 11 30917098",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 104,
+    "fields": {
+        "academic_id": "98216",
+        "phone": "",
+        "emergency_contact": "(19)3521-5504",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 106,
+    "fields": {
+        "academic_id": "294480",
+        "phone": "",
+        "emergency_contact": "Ligia Antunes Cocenas",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 108,
+    "fields": {
+        "academic_id": "98408",
+        "phone": "",
+        "emergency_contact": "Carlo Giuliano",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 109,
+    "fields": {
+        "academic_id": "151597",
+        "phone": "",
+        "emergency_contact": "Melania Zeidler de Almeida",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 110,
+    "fields": {
+        "academic_id": "91234",
+        "phone": "",
+        "emergency_contact": "Lia Mara Lazarote",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 111,
+    "fields": {
+        "academic_id": "91234",
+        "phone": "",
+        "emergency_contact": "+55 (31) 9106-4609",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 112,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "(31)82262680",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 113,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Ana Carolina de Oliveira Henriques",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 115,
+    "fields": {
+        "academic_id": "149607",
+        "phone": "",
+        "emergency_contact": "EmÝlia",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 117,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "+55 (48) 32340599",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 119,
+    "fields": {
+        "academic_id": "117544",
+        "phone": "",
+        "emergency_contact": "Cristiane Miwa Fujii",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 120,
+    "fields": {
+        "academic_id": "empty",
+        "phone": "",
+        "emergency_contact": "Alfredo Rodrigues Vaz",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 121,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Thiago Nemer",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 123,
+    "fields": {
+        "academic_id": "214264",
+        "phone": "",
+        "emergency_contact": "Darci Aparecido Floriano",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 124,
+    "fields": {
+        "academic_id": "117389",
+        "phone": "",
+        "emergency_contact": "Neire do Rossio Martins",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 125,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "+55(31)96598051",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 126,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "+55 (11)99231-1392",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 128,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Leonardo Campos",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 129,
+    "fields": {
+        "academic_id": "136291",
+        "phone": "",
+        "emergency_contact": "Fabiana",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 130,
+    "fields": {
+        "academic_id": "151836",
+        "phone": "",
+        "emergency_contact": "Sergio",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 131,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "FRANCISCO DAVID MATEOS AHUMADA",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 132,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Onilton Carvalho Barbosa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 134,
+    "fields": {
+        "academic_id": "811076",
+        "phone": "",
+        "emergency_contact": "Daniela",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 135,
+    "fields": {
+        "academic_id": "90798",
+        "phone": "",
+        "emergency_contact": "(11) 98218-6215",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 137,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Agatha Matsumoto",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 139,
+    "fields": {
+        "academic_id": "160106",
+        "phone": "",
+        "emergency_contact": "JosÚ Alexandre Diniz",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 140,
+    "fields": {
+        "academic_id": "972786",
+        "phone": "",
+        "emergency_contact": "Tatiana Garcia",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 141,
+    "fields": {
+        "academic_id": "empty",
+        "phone": "",
+        "emergency_contact": "Claudia",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 142,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Gustavo Wiederhecker",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 144,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Andrei Alaferdov",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 145,
+    "fields": {
+        "academic_id": "760360",
+        "phone": "",
+        "emergency_contact": "Osmaira Raeder",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 147,
+    "fields": {
+        "academic_id": "150992",
+        "phone": "",
+        "emergency_contact": "CÚlia/Marcos/SÚrgio",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 149,
+    "fields": {
+        "academic_id": "81491",
+        "phone": "",
+        "emergency_contact": "Silvia ou SÚrgio",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 150,
+    "fields": {
+        "academic_id": "153763",
+        "phone": "",
+        "emergency_contact": "Enilda",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 151,
+    "fields": {
+        "academic_id": "106568",
+        "phone": "",
+        "emergency_contact": "Denise",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 152,
+    "fields": {
+        "academic_id": "830983",
+        "phone": "",
+        "emergency_contact": "19 35213735",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 153,
+    "fields": {
+        "academic_id": "94277",
+        "phone": "",
+        "emergency_contact": "Vitor Nadal de Oliveira",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 155,
+    "fields": {
+        "academic_id": "143690",
+        "phone": "",
+        "emergency_contact": "Leonardo Bravo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 157,
+    "fields": {
+        "academic_id": "92447",
+        "phone": "",
+        "emergency_contact": "14 981211637",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 158,
+    "fields": {
+        "academic_id": "91234",
+        "phone": "",
+        "emergency_contact": "Juliana Cirino",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 159,
+    "fields": {
+        "academic_id": "98208",
+        "phone": "",
+        "emergency_contact": "M¶nica Cotta",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 160,
+    "fields": {
+        "academic_id": "7290967",
+        "phone": "",
+        "emergency_contact": "Renata Melo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 162,
+    "fields": {
+        "academic_id": "151605",
+        "phone": "",
+        "emergency_contact": "+5519984314029",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 163,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "Maria Aparecida",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 164,
+    "fields": {
+        "academic_id": "151607",
+        "phone": "",
+        "emergency_contact": "+55(82)8170-1981",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 165,
+    "fields": {
+        "academic_id": "142343",
+        "phone": "",
+        "emergency_contact": "Julio Guedes",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 167,
+    "fields": {
+        "academic_id": "153935",
+        "phone": "",
+        "emergency_contact": "Nataly Munevar",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 168,
+    "fields": {
+        "academic_id": "151555",
+        "phone": "",
+        "emergency_contact": "+5519988329305",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 169,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "Viviane Ramos",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 171,
+    "fields": {
+        "academic_id": "144469",
+        "phone": "",
+        "emergency_contact": "Julio Cabral (Pai)",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 172,
+    "fields": {
+        "academic_id": "123259",
+        "phone": "",
+        "emergency_contact": "Nella",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 173,
+    "fields": {
+        "academic_id": "117742",
+        "phone": "",
+        "emergency_contact": "Maria Ilda Nogueira Silva",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 175,
+    "fields": {
+        "academic_id": "103830",
+        "phone": "",
+        "emergency_contact": "Rone Sampaio",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 176,
+    "fields": {
+        "academic_id": "137240",
+        "phone": "",
+        "emergency_contact": "19-998142310",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 177,
+    "fields": {
+        "academic_id": "162627",
+        "phone": "",
+        "emergency_contact": "(85)82001914",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 178,
+    "fields": {
+        "academic_id": "162634",
+        "phone": "",
+        "emergency_contact": "Flßvia Filippin",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 179,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Marco Alayo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 180,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Juliana",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 181,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Aureliano Marques",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 183,
+    "fields": {
+        "academic_id": "30341-4",
+        "phone": "",
+        "emergency_contact": "Margarida BarÒo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 184,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "+553534713512",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 185,
+    "fields": {
+        "academic_id": "993305",
+        "phone": "",
+        "emergency_contact": "19-37466045",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 187,
+    "fields": {
+        "academic_id": "xxxxxx",
+        "phone": "",
+        "emergency_contact": "Marcos Hamanaka",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 188,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "Crolina Teixeira Eirez",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 189,
+    "fields": {
+        "academic_id": "114924",
+        "phone": "",
+        "emergency_contact": "Ant¶nio Carlos Camrgo do Amaral",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 190,
+    "fields": {
+        "academic_id": "118998",
+        "phone": "",
+        "emergency_contact": "Maria da Gloria",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 191,
+    "fields": {
+        "academic_id": "120325",
+        "phone": "",
+        "emergency_contact": "JOAO MUYA",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 192,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "Antonio Carlos Camargo do Amaral",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 193,
+    "fields": {
+        "academic_id": "none",
+        "phone": "",
+        "emergency_contact": "Stanislav Moshkalev",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 194,
+    "fields": {
+        "academic_id": "153903",
+        "phone": "",
+        "emergency_contact": "Luiz Fernando Zagonel",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 196,
+    "fields": {
+        "academic_id": "973511",
+        "phone": "",
+        "emergency_contact": "TÔnia/Pablo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 197,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "+55(19)98307-9966",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 198,
+    "fields": {
+        "academic_id": "157460",
+        "phone": "",
+        "emergency_contact": "Sandra Maria Carneiro Lima",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 199,
+    "fields": {
+        "academic_id": "92820",
+        "phone": "",
+        "emergency_contact": "Fanny BÚron",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 200,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "M¶nica",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 201,
+    "fields": {
+        "academic_id": "140119",
+        "phone": "",
+        "emergency_contact": "+55 (19) 99198-7608",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 202,
+    "fields": {
+        "academic_id": "92709",
+        "phone": "",
+        "emergency_contact": "1998114505",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 203,
+    "fields": {
+        "academic_id": "146982",
+        "phone": "",
+        "emergency_contact": "(11)999884023",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 204,
+    "fields": {
+        "academic_id": "122975",
+        "phone": "",
+        "emergency_contact": "William",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 205,
+    "fields": {
+        "academic_id": "159809",
+        "phone": "",
+        "emergency_contact": "Ivone",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 206,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "Raquel",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 207,
+    "fields": {
+        "academic_id": "136101",
+        "phone": "",
+        "emergency_contact": "Regina",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 208,
+    "fields": {
+        "academic_id": "Others",
+        "phone": "",
+        "emergency_contact": "Abenita Rocha Rodrigues",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 210,
+    "fields": {
+        "academic_id": "empty",
+        "phone": "",
+        "emergency_contact": "Deise",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 211,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Bortolini",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 212,
+    "fields": {
+        "academic_id": "empty",
+        "phone": "",
+        "emergency_contact": "GouvÛa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 213,
+    "fields": {
+        "academic_id": "81628",
+        "phone": "",
+        "emergency_contact": "(71) 33344230",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 215,
+    "fields": {
+        "academic_id": "90685",
+        "phone": "",
+        "emergency_contact": "Antonio Carlos Carnio",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 216,
+    "fields": {
+        "academic_id": "93892",
+        "phone": "",
+        "emergency_contact": "Maria do Rosßrio",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 217,
+    "fields": {
+        "academic_id": "99932",
+        "phone": "",
+        "emergency_contact": "+55 (19) 99766-2448",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 219,
+    "fields": {
+        "academic_id": "150989",
+        "phone": "",
+        "emergency_contact": "Octßvio",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 221,
+    "fields": {
+        "academic_id": "117793",
+        "phone": "",
+        "emergency_contact": "+55 (16) 98131-9120",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 222,
+    "fields": {
+        "academic_id": "118841",
+        "phone": "",
+        "emergency_contact": "OsmaÝra",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 223,
+    "fields": {
+        "academic_id": "163011",
+        "phone": "",
+        "emergency_contact": "Felipe Soares Rocha",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 224,
+    "fields": {
+        "academic_id": "123292",
+        "phone": "",
+        "emergency_contact": "SANDRA MILENA BONILLA BECERRA",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 225,
+    "fields": {
+        "academic_id": "94171",
+        "phone": "",
+        "emergency_contact": "Monica A. Cotta",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 226,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Norma Bertoldi Martins",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 228,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Ariela Barbosa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 230,
+    "fields": {
+        "academic_id": "108233",
+        "phone": "",
+        "emergency_contact": "David Elias da Silva",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 231,
+    "fields": {
+        "academic_id": "162630",
+        "phone": "",
+        "emergency_contact": "Igor Alves Maronni",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 232,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Marcos Massi",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 234,
+    "fields": {
+        "academic_id": "144595",
+        "phone": "",
+        "emergency_contact": "Fiorella",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 236,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Christiano de Matos",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 238,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Antonio Riul Junior",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 240,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "+55(11)99606-1036",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 242,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Teresa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 244,
+    "fields": {
+        "academic_id": "154880",
+        "phone": "",
+        "emergency_contact": "Jose Benedito Frare Primo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 245,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "Terezinha Conte Granado",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 247,
+    "fields": {
+        "academic_id": "Not UNICAMP member",
+        "phone": "",
+        "emergency_contact": "+55 (16) 3301-9644",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 249,
+    "fields": {
+        "academic_id": "150681",
+        "phone": "",
+        "emergency_contact": "(11) 954785763",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 251,
+    "fields": {
+        "academic_id": "309123",
+        "phone": "",
+        "emergency_contact": "Fernanda Puccinelli",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 252,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Osvaldo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 253,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Joelma",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 254,
+    "fields": {
+        "academic_id": "115328",
+        "phone": "",
+        "emergency_contact": "Maria Luiza",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 255,
+    "fields": {
+        "academic_id": "no",
+        "phone": "",
+        "emergency_contact": "Viviane Abreu",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 256,
+    "fields": {
+        "academic_id": "101299",
+        "phone": "",
+        "emergency_contact": "Fßtima Santinom",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 259,
+    "fields": {
+        "academic_id": "156245",
+        "phone": "",
+        "emergency_contact": "19 98300 2233",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 260,
+    "fields": {
+        "academic_id": "135502",
+        "phone": "",
+        "emergency_contact": "Romildo Strey",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 261,
+    "fields": {
+        "academic_id": "960494",
+        "phone": "",
+        "emergency_contact": "Arlete Perini",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 263,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "TanÝsia",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 265,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Prof. Carlos Rettori",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 267,
+    "fields": {
+        "academic_id": "164197",
+        "phone": "",
+        "emergency_contact": "(19) 997088551",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 268,
+    "fields": {
+        "academic_id": "45789",
+        "phone": "",
+        "emergency_contact": "Fellipe",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 269,
+    "fields": {
+        "academic_id": "Em processamento",
+        "phone": "",
+        "emergency_contact": "Thiago Sonnewend",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 270,
+    "fields": {
+        "academic_id": ".",
+        "phone": "",
+        "emergency_contact": "LAUDICEA",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 272,
+    "fields": {
+        "academic_id": "50066",
+        "phone": "",
+        "emergency_contact": "Cristiano",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 273,
+    "fields": {
+        "academic_id": "...",
+        "phone": "",
+        "emergency_contact": "19981777503",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 274,
+    "fields": {
+        "academic_id": "141297",
+        "phone": "",
+        "emergency_contact": "Tatiana Ermakova",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 276,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "Ana Cecilia Rodrigues",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 278,
+    "fields": {
+        "academic_id": "----",
+        "phone": "",
+        "emergency_contact": "+55 (67) 99963-3662",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 280,
+    "fields": {
+        "academic_id": "2016667278",
+        "phone": "",
+        "emergency_contact": "Father and Mother",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 282,
+    "fields": {
+        "academic_id": "120625",
+        "phone": "",
+        "emergency_contact": "(19) 35214088",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 284,
+    "fields": {
+        "academic_id": "163962",
+        "phone": "",
+        "emergency_contact": "(19)35214088",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 285,
+    "fields": {
+        "academic_id": "167852",
+        "phone": "",
+        "emergency_contact": "ValÚria",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 286,
+    "fields": {
+        "academic_id": "144394",
+        "phone": "",
+        "emergency_contact": "Marleny Charagua Javier",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 287,
+    "fields": {
+        "academic_id": "193103",
+        "phone": "",
+        "emergency_contact": "Juliano Moreno Kersul de Castro Carvalho",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 288,
+    "fields": {
+        "academic_id": "149306",
+        "phone": "",
+        "emergency_contact": "Fatima (mÒe)",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 290,
+    "fields": {
+        "academic_id": "192722",
+        "phone": "",
+        "emergency_contact": "Cristina Melnic CorrÛa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 292,
+    "fields": {
+        "academic_id": "102202",
+        "phone": "",
+        "emergency_contact": "3537317379",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 294,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "(15)996403344",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 295,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Fabio Rodrigues",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 296,
+    "fields": {
+        "academic_id": "163058",
+        "phone": "",
+        "emergency_contact": "Mßrio",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 298,
+    "fields": {
+        "academic_id": "180534",
+        "phone": "",
+        "emergency_contact": "+55(19)998410059",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 299,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Fernando Aguiar",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 301,
+    "fields": {
+        "academic_id": "154628",
+        "phone": "",
+        "emergency_contact": "Hugo Luis Ribeiro",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 302,
+    "fields": {
+        "academic_id": "142356",
+        "phone": "",
+        "emergency_contact": "S¶nia Regina",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 303,
+    "fields": {
+        "academic_id": "123456",
+        "phone": "",
+        "emergency_contact": "+55 (19) 981453345",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 305,
+    "fields": {
+        "academic_id": "145580",
+        "phone": "",
+        "emergency_contact": "Paulo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 306,
+    "fields": {
+        "academic_id": "108425",
+        "phone": "",
+        "emergency_contact": "Prof. Dr. Odilon Divino Damasceno Couto Junior",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 307,
+    "fields": {
+        "academic_id": "empty",
+        "phone": "",
+        "emergency_contact": "Ana Carolina Henriques",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 308,
+    "fields": {
+        "academic_id": "210235",
+        "phone": "",
+        "emergency_contact": "Renata Lima Moretto",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 309,
+    "fields": {
+        "academic_id": "144396",
+        "phone": "",
+        "emergency_contact": "Jose Angel Borda",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 310,
+    "fields": {
+        "academic_id": "155402",
+        "phone": "",
+        "emergency_contact": "Silvana Coutinho",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 311,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Maria Cristina Lacerda de Lacerda",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 312,
+    "fields": {
+        "academic_id": "211577",
+        "phone": "",
+        "emergency_contact": "Andrei Alaferdov",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 314,
+    "fields": {
+        "academic_id": "178060",
+        "phone": "",
+        "emergency_contact": "Eduardo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 315,
+    "fields": {
+        "academic_id": "185886",
+        "phone": "",
+        "emergency_contact": "+55(71)99655-5915",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 316,
+    "fields": {
+        "academic_id": "3429132 (usp)",
+        "phone": "",
+        "emergency_contact": "55 (11) 5834-7072",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 318,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "Jairo Marques Leite",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 320,
+    "fields": {
+        "academic_id": "31622798",
+        "phone": "",
+        "emergency_contact": "Sandra Tessaro",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 321,
+    "fields": {
+        "academic_id": "172182",
+        "phone": "",
+        "emergency_contact": "LBMT (Marcos)",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 322,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "Suprabh Prakash",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 323,
+    "fields": {
+        "academic_id": "176790",
+        "phone": "",
+        "emergency_contact": "Ana Paula de Oliveira Zurita",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 324,
+    "fields": {
+        "academic_id": "209070",
+        "phone": "",
+        "emergency_contact": "Mara",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 326,
+    "fields": {
+        "academic_id": "190747",
+        "phone": "",
+        "emergency_contact": "Milena Vilella",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 327,
+    "fields": {
+        "academic_id": "192711",
+        "phone": "",
+        "emergency_contact": "19 38061068",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 329,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "Anderson Calhabeu",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 330,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "Agatha Matsumoto",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 332,
+    "fields": {
+        "academic_id": "164487",
+        "phone": "",
+        "emergency_contact": "+55(19)981114319",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 333,
+    "fields": {
+        "academic_id": "8180775",
+        "phone": "",
+        "emergency_contact": "Elaine Carta",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 335,
+    "fields": {
+        "academic_id": "169730",
+        "phone": "",
+        "emergency_contact": "JoÒo Carlos Monteiro Carvalho",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 337,
+    "fields": {
+        "academic_id": "211569",
+        "phone": "",
+        "emergency_contact": "Rosana Aparecida Petrini",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 338,
+    "fields": {
+        "academic_id": "160380",
+        "phone": "",
+        "emergency_contact": "Ruth",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 340,
+    "fields": {
+        "academic_id": "228245",
+        "phone": "(47) 9917-76041",
+        "emergency_contact": "Ana Luisa",
+        "emergency_phone": "(19) 9970-12194",
+        "degree_area": [
+            1,
+            6
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 341,
+    "fields": {
+        "academic_id": "314987",
+        "phone": "",
+        "emergency_contact": "+55 (11) 3408-9790",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 342,
+    "fields": {
+        "academic_id": "164960",
+        "phone": "",
+        "emergency_contact": "Jaime Landazuri",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 343,
+    "fields": {
+        "academic_id": "314985",
+        "phone": "",
+        "emergency_contact": "Paulo Amaral",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 344,
+    "fields": {
+        "academic_id": "314986",
+        "phone": "",
+        "emergency_contact": "Prof. StanislavMoshkalev",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 345,
+    "fields": {
+        "academic_id": "NA",
+        "phone": "",
+        "emergency_contact": "Fabiana Gerosa (IrmÒ)",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 347,
+    "fields": {
+        "academic_id": "147031",
+        "phone": "",
+        "emergency_contact": "Prof. Dr. Francisco Rouxinol",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 348,
+    "fields": {
+        "academic_id": "172766",
+        "phone": "",
+        "emergency_contact": "Carla Renata GaviÒo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 350,
+    "fields": {
+        "academic_id": "090385",
+        "phone": "",
+        "emergency_contact": "Newton Frateschi (Orientador)",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 351,
+    "fields": {
+        "academic_id": "182100",
+        "phone": "",
+        "emergency_contact": "Iracema",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 352,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Gustavo Silva Wiederhecker",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 354,
+    "fields": {
+        "academic_id": "190745",
+        "phone": "",
+        "emergency_contact": "Manuel Salazar Barreno",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 355,
+    "fields": {
+        "academic_id": "229013",
+        "phone": "",
+        "emergency_contact": "Daniele Lemos",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 356,
+    "fields": {
+        "academic_id": "920462",
+        "phone": "",
+        "emergency_contact": "┬ngela A. Teixeira Neto",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 358,
+    "fields": {
+        "academic_id": "193111",
+        "phone": "",
+        "emergency_contact": "+55(27) 9 998786754",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 359,
+    "fields": {
+        "academic_id": "155157",
+        "phone": "",
+        "emergency_contact": "Dinorß Wilma Sacramento Christovam",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 360,
+    "fields": {
+        "academic_id": "NÒo sou da Unicamp",
+        "phone": "",
+        "emergency_contact": "Clßudia",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 361,
+    "fields": {
+        "academic_id": "POSTDOC",
+        "phone": "",
+        "emergency_contact": "PROFA. FANNY BERON",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 362,
+    "fields": {
+        "academic_id": "1",
+        "phone": "",
+        "emergency_contact": "Wendell Sim§es e Silva",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 364,
+    "fields": {
+        "academic_id": "190938",
+        "phone": "",
+        "emergency_contact": "21998650482",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 365,
+    "fields": {
+        "academic_id": "201753",
+        "phone": "",
+        "emergency_contact": "Odilon D. D. Couto",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 367,
+    "fields": {
+        "academic_id": "149061",
+        "phone": "",
+        "emergency_contact": "LaÝs Pellizzer Gabriel",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 369,
+    "fields": {
+        "academic_id": "228015",
+        "phone": "",
+        "emergency_contact": "Edileusa PatrÝcio",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 370,
+    "fields": {
+        "academic_id": "146652",
+        "phone": "",
+        "emergency_contact": "Orivaldo de Oliveira da Rocha",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 371,
+    "fields": {
+        "academic_id": "230415",
+        "phone": "",
+        "emergency_contact": "Andre Mazzi",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 373,
+    "fields": {
+        "academic_id": "0",
+        "phone": "",
+        "emergency_contact": "Gustavo Soares Vieira",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 374,
+    "fields": {
+        "academic_id": "123456",
+        "phone": "",
+        "emergency_contact": "+55 (19) 99147-0043",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 375,
+    "fields": {
+        "academic_id": "199745",
+        "phone": "",
+        "emergency_contact": "Vera L·cia Lopes Mendes",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 376,
+    "fields": {
+        "academic_id": "315507",
+        "phone": "",
+        "emergency_contact": "Andrea Munevar",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 377,
+    "fields": {
+        "academic_id": "072671",
+        "phone": "",
+        "emergency_contact": "Wilson",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 379,
+    "fields": {
+        "academic_id": "NA",
+        "phone": "",
+        "emergency_contact": "Rose Portasio",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 381,
+    "fields": {
+        "academic_id": "226620",
+        "phone": "",
+        "emergency_contact": "DamiÒo de Andrade",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 382,
+    "fields": {
+        "academic_id": "219148",
+        "phone": "",
+        "emergency_contact": "Raluca Savu",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 383,
+    "fields": {
+        "academic_id": "I am not  UNICAMP member",
+        "phone": "",
+        "emergency_contact": "+55(11)986145164",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 385,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "Kleber Pirota",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 386,
+    "fields": {
+        "academic_id": "262733",
+        "phone": "",
+        "emergency_contact": "JosÚ Alexandre Diniz",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 387,
+    "fields": {
+        "academic_id": "191549",
+        "phone": "",
+        "emergency_contact": "01636299072",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 389,
+    "fields": {
+        "academic_id": "000",
+        "phone": "",
+        "emergency_contact": "Max RodrÝguez",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 390,
+    "fields": {
+        "academic_id": "209958",
+        "phone": "",
+        "emergency_contact": "Hudson Giovani Zanin",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 391,
+    "fields": {
+        "academic_id": "000000",
+        "phone": "",
+        "emergency_contact": "Rosendina Marta dos Santos Xavier",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 392,
+    "fields": {
+        "academic_id": "265232",
+        "phone": "",
+        "emergency_contact": "19996354101",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 393,
+    "fields": {
+        "academic_id": "000000",
+        "phone": "",
+        "emergency_contact": "Serguei Balachov",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 394,
+    "fields": {
+        "academic_id": "157339",
+        "phone": "",
+        "emergency_contact": "+55 (19) 98140-2557",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 396,
+    "fields": {
+        "academic_id": "780137",
+        "phone": "",
+        "emergency_contact": "Sandra",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 398,
+    "fields": {
+        "academic_id": "externo",
+        "phone": "",
+        "emergency_contact": "Osmar Bagnato",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 400,
+    "fields": {
+        "academic_id": "318497",
+        "phone": "",
+        "emergency_contact": "Waltenes",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 401,
+    "fields": {
+        "academic_id": "nao tenho",
+        "phone": "",
+        "emergency_contact": "Jaqueline Gerhart",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 403,
+    "fields": {
+        "academic_id": "202733",
+        "phone": "",
+        "emergency_contact": "Julia",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 405,
+    "fields": {
+        "academic_id": "N.A.",
+        "phone": "",
+        "emergency_contact": "Cassiano",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 406,
+    "fields": {
+        "academic_id": "317825",
+        "phone": "",
+        "emergency_contact": "Mayara Moreira Duarte Tanaka",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 408,
+    "fields": {
+        "academic_id": "135654",
+        "phone": "",
+        "emergency_contact": "Julio Criginski Cezar",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 409,
+    "fields": {
+        "academic_id": "993401",
+        "phone": "",
+        "emergency_contact": "Marilyn Minicucci Ibanez",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 410,
+    "fields": {
+        "academic_id": "318023",
+        "phone": "",
+        "emergency_contact": "Sueli Campopiano",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 411,
+    "fields": {
+        "academic_id": "319957",
+        "phone": "",
+        "emergency_contact": "19 97137-9124",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 412,
+    "fields": {
+        "academic_id": "231542",
+        "phone": "",
+        "emergency_contact": "Felippe Barbosa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 413,
+    "fields": {
+        "academic_id": "318391",
+        "phone": "",
+        "emergency_contact": "Agnaldo Nista",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 414,
+    "fields": {
+        "academic_id": "265937",
+        "phone": "",
+        "emergency_contact": "+55 (71) 999782364",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 415,
+    "fields": {
+        "academic_id": "228206",
+        "phone": "",
+        "emergency_contact": "Thiago",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 417,
+    "fields": {
+        "academic_id": "176054",
+        "phone": "",
+        "emergency_contact": "Aline",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 419,
+    "fields": {
+        "academic_id": "177734",
+        "phone": "",
+        "emergency_contact": "Ronald Fernandes",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 420,
+    "fields": {
+        "academic_id": "265938",
+        "phone": "",
+        "emergency_contact": "Felippe Barbosa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 421,
+    "fields": {
+        "academic_id": "319990",
+        "phone": "(19) 3521-6646",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 422,
+    "fields": {
+        "academic_id": "169380",
+        "phone": "",
+        "emergency_contact": "11956095165",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 424,
+    "fields": {
+        "academic_id": "196203",
+        "phone": "",
+        "emergency_contact": "Avanildo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 425,
+    "fields": {
+        "academic_id": "115948",
+        "phone": "",
+        "emergency_contact": "19996581313",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 426,
+    "fields": {
+        "academic_id": "251146",
+        "phone": "",
+        "emergency_contact": "+55 (61) 81724400",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 428,
+    "fields": {
+        "academic_id": "-------",
+        "phone": "",
+        "emergency_contact": "Maria Clara Rebello",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 429,
+    "fields": {
+        "academic_id": "---",
+        "phone": "",
+        "emergency_contact": "Saulo Machado Moreira Sousa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 430,
+    "fields": {
+        "academic_id": "203676",
+        "phone": "",
+        "emergency_contact": "+55 (38) 99107-4344",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 431,
+    "fields": {
+        "academic_id": "321341",
+        "phone": "",
+        "emergency_contact": "Camila Machado",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 432,
+    "fields": {
+        "academic_id": "schilder",
+        "phone": "",
+        "emergency_contact": "Marina Vasarini Lopes",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 434,
+    "fields": {
+        "academic_id": "200689",
+        "phone": "",
+        "emergency_contact": "Vivianne",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 436,
+    "fields": {
+        "academic_id": "319323",
+        "phone": "",
+        "emergency_contact": "+55 12 99765-2203",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 437,
+    "fields": {
+        "academic_id": "236485",
+        "phone": "",
+        "emergency_contact": "PROF. HUGO HERNANDEZ",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 438,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "Maria de Lourdes de Araujo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 440,
+    "fields": {
+        "academic_id": "n usp 11289650",
+        "phone": "",
+        "emergency_contact": "Alex",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 441,
+    "fields": {
+        "academic_id": "239753",
+        "phone": "",
+        "emergency_contact": "Maria Lucia (MÒe)",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 443,
+    "fields": {
+        "academic_id": "321854",
+        "phone": "",
+        "emergency_contact": "Anne Cidreira",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 444,
+    "fields": {
+        "academic_id": "311264",
+        "phone": "",
+        "emergency_contact": "Cyro",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 446,
+    "fields": {
+        "academic_id": "281626",
+        "phone": "",
+        "emergency_contact": "isabelle",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 447,
+    "fields": {
+        "academic_id": "242436",
+        "phone": "",
+        "emergency_contact": "Kleber Roberto Pirota",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 449,
+    "fields": {
+        "academic_id": "202415",
+        "phone": "",
+        "emergency_contact": "Luana Ghiselli",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 451,
+    "fields": {
+        "academic_id": "NÒo sou membro da UNICAMP",
+        "phone": "",
+        "emergency_contact": "Pai",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 453,
+    "fields": {
+        "academic_id": "220769",
+        "phone": "",
+        "emergency_contact": "Carolina (prima)",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 454,
+    "fields": {
+        "academic_id": "263713",
+        "phone": "",
+        "emergency_contact": "Samanta Dhavilla de Brito Oliveira",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 455,
+    "fields": {
+        "academic_id": "321745",
+        "phone": "",
+        "emergency_contact": "Thaynan",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 456,
+    "fields": {
+        "academic_id": "237197",
+        "phone": "",
+        "emergency_contact": "Francisco Rouxinol",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 457,
+    "fields": {
+        "academic_id": "nÒo hß",
+        "phone": "",
+        "emergency_contact": "Leandro",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 458,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "Ricardo Cotrin",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 459,
+    "fields": {
+        "academic_id": "322 388",
+        "phone": "",
+        "emergency_contact": "Camila Alves",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 460,
+    "fields": {
+        "academic_id": "095353",
+        "phone": "",
+        "emergency_contact": "Marina",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 462,
+    "fields": {
+        "academic_id": "239654",
+        "phone": "",
+        "emergency_contact": "+55 (21) 976172764",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 463,
+    "fields": {
+        "academic_id": "255654",
+        "phone": "",
+        "emergency_contact": "19993345786",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 464,
+    "fields": {
+        "academic_id": "251121",
+        "phone": "",
+        "emergency_contact": "+55 (47) 99254-7306",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 465,
+    "fields": {
+        "academic_id": "204871",
+        "phone": "",
+        "emergency_contact": "+55 31 8840-1143",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 466,
+    "fields": {
+        "academic_id": "220543",
+        "phone": "",
+        "emergency_contact": "+55 (11) 97258-9945",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 467,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "Contato pessoal ou contato de trabalho?",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 469,
+    "fields": {
+        "academic_id": "160106",
+        "phone": "",
+        "emergency_contact": "Marcos Puydinger",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 470,
+    "fields": {
+        "academic_id": "173425",
+        "phone": "(21) 9870-05003",
+        "emergency_contact": "Freddy Orlando Jara Poma",
+        "emergency_phone": "(19) 9977-47929",
+        "degree_area": [
+            1,
+            6
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 471,
+    "fields": {
+        "academic_id": "239852",
+        "phone": "",
+        "emergency_contact": "Adriana Almeida Resende de Miranda",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 472,
+    "fields": {
+        "academic_id": "201318",
+        "phone": "(16) 9938-16653",
+        "emergency_contact": "Francine Tomiatti",
+        "emergency_phone": "(16) 9914-07429",
+        "degree_area": [
+            6
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 473,
+    "fields": {
+        "academic_id": "319393",
+        "phone": "",
+        "emergency_contact": "Thais H Stump",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 474,
+    "fields": {
+        "academic_id": "257995",
+        "phone": "",
+        "emergency_contact": "Alexandre Maluf Chain",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 475,
+    "fields": {
+        "academic_id": "323246",
+        "phone": "",
+        "emergency_contact": "+55 (19) 3881-3220",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 477,
+    "fields": {
+        "academic_id": "272622",
+        "phone": "",
+        "emergency_contact": "Ivan JosÚ Dal Pizzol",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 478,
+    "fields": {
+        "academic_id": "empty",
+        "phone": "",
+        "emergency_contact": "11986606606",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 479,
+    "fields": {
+        "academic_id": "206582",
+        "phone": "",
+        "emergency_contact": "Marcos Vinicius Puydinger dos Santos",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 480,
+    "fields": {
+        "academic_id": "820316 ou 916069",
+        "phone": "",
+        "emergency_contact": "Gl¾ria (mÒe)",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 481,
+    "fields": {
+        "academic_id": "NA",
+        "phone": "",
+        "emergency_contact": "RENE",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 482,
+    "fields": {
+        "academic_id": "324641",
+        "phone": "",
+        "emergency_contact": "Felipe Murcia",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 483,
+    "fields": {
+        "academic_id": "324492",
+        "phone": "",
+        "emergency_contact": "Heloisa Fernanda Camargo",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 485,
+    "fields": {
+        "academic_id": "324561",
+        "phone": "",
+        "emergency_contact": "+55 (11) 946531732",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 487,
+    "fields": {
+        "academic_id": "316687",
+        "phone": "",
+        "emergency_contact": "Esposa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 488,
+    "fields": {
+        "academic_id": "324867",
+        "phone": "",
+        "emergency_contact": "Vivian Forner (Esposa)",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 490,
+    "fields": {
+        "academic_id": "250832",
+        "phone": "",
+        "emergency_contact": "Paulo Eduardo Dias da Costa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 491,
+    "fields": {
+        "academic_id": "325035",
+        "phone": "",
+        "emergency_contact": "19994144869",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 492,
+    "fields": {
+        "academic_id": "258637",
+        "phone": "",
+        "emergency_contact": "Gildivan Andrade",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 493,
+    "fields": {
+        "academic_id": "-",
+        "phone": "",
+        "emergency_contact": "+55 (19) 99453-8779",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 494,
+    "fields": {
+        "academic_id": "974200",
+        "phone": "",
+        "emergency_contact": "19997648395",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 496,
+    "fields": {
+        "academic_id": "0000",
+        "phone": "",
+        "emergency_contact": "Moizeis",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 497,
+    "fields": {
+        "academic_id": "272542",
+        "phone": "(19) 9972-19083",
+        "emergency_contact": "Felippe Barbosa",
+        "emergency_phone": "(19) 9811-88538",
+        "degree_area": [
+            6
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 498,
+    "fields": {
+        "academic_id": "217179",
+        "phone": "",
+        "emergency_contact": "Vanessa Sousa",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 500,
+    "fields": {
+        "academic_id": "323518",
+        "phone": "",
+        "emergency_contact": "Neide de Souza Esperanca",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 501,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "(19) 971576180",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 503,
+    "fields": {
+        "academic_id": "206572",
+        "phone": "",
+        "emergency_contact": "19997660248",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 504,
+    "fields": {
+        "academic_id": "206649",
+        "phone": "",
+        "emergency_contact": "Cleide de Oliveira",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 505,
+    "fields": {
+        "academic_id": "250784",
+        "phone": "",
+        "emergency_contact": "Enza Maria Conti ZacchÚ",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 507,
+    "fields": {
+        "academic_id": "272544",
+        "phone": "",
+        "emergency_contact": "16994451659",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 508,
+    "fields": {
+        "academic_id": "NÒo se aplica",
+        "phone": "",
+        "emergency_contact": "Vladimir Jesus Trava-Airoldi",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 510,
+    "fields": {
+        "academic_id": "24550-0",
+        "phone": "",
+        "emergency_contact": "Eleonora Di Maria",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 511,
+    "fields": {
+        "academic_id": "175654",
+        "phone": "",
+        "emergency_contact": "+55 (11) 914740926",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 512,
+    "fields": {
+        "academic_id": "225209",
+        "phone": "",
+        "emergency_contact": "M¶nica Veltmeyer",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 513,
+    "fields": {
+        "academic_id": "258444",
+        "phone": "",
+        "emergency_contact": "7181700544",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 514,
+    "fields": {
+        "academic_id": "239844",
+        "phone": "",
+        "emergency_contact": "Henrique da Fonseca Sim§es",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 515,
+    "fields": {
+        "academic_id": "205493",
+        "phone": "",
+        "emergency_contact": "Ana Claudia Carrapato",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 516,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "LÝvia Nobre",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 518,
+    "fields": {
+        "academic_id": "externo",
+        "phone": "",
+        "emergency_contact": "Antonio Carlos \"Duarte\" Moreira",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 519,
+    "fields": {
+        "academic_id": "239680",
+        "phone": "",
+        "emergency_contact": "+989133682604",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 520,
+    "fields": {
+        "academic_id": "326635",
+        "phone": "",
+        "emergency_contact": "Carlos Roberto de Lima Santos",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 521,
+    "fields": {
+        "academic_id": "212732",
+        "phone": "",
+        "emergency_contact": "+55 19 99690-4090",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 522,
+    "fields": {
+        "academic_id": "239692",
+        "phone": "",
+        "emergency_contact": "34996742482",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 525,
+    "fields": {
+        "academic_id": "328202",
+        "phone": "(19) 9936-24334",
+        "emergency_contact": "Sarah Dethloff",
+        "emergency_phone": "(19) 9911-28087",
+        "degree_area": [
+            1
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 526,
+    "fields": {
+        "academic_id": "238355",
+        "phone": "",
+        "emergency_contact": "Maria Eduarda da Silva Mota",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 528,
+    "fields": {
+        "academic_id": "NÒo possuo",
+        "phone": "",
+        "emergency_contact": "Raphael Moratta",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 529,
+    "fields": {
+        "academic_id": "324343",
+        "phone": "",
+        "emergency_contact": "16981320970",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 530,
+    "fields": {
+        "academic_id": "251126",
+        "phone": "",
+        "emergency_contact": "Leida da Silva",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 531,
+    "fields": {
+        "academic_id": "223138",
+        "phone": "",
+        "emergency_contact": "Fabio Antunes",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 534,
+    "fields": {
+        "academic_id": "258461",
+        "phone": "",
+        "emergency_contact": "Keli",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 535,
+    "fields": {
+        "academic_id": "259148",
+        "phone": "",
+        "emergency_contact": "Aldemir Spohr",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 537,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 538,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": [
+            6
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 539,
+    "fields": {
+        "academic_id": "213963",
+        "phone": "(19) 9606-2412",
+        "emergency_contact": "Nayara Thomazella",
+        "emergency_phone": "(19) 9122-8244",
+        "degree_area": [
+            1
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 540,
+    "fields": {
+        "academic_id": "230076",
+        "phone": "(82) 9995-76504",
+        "emergency_contact": "Tßnia",
+        "emergency_phone": "(82) 9882-70152",
+        "degree_area": [
+            5
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 541,
+    "fields": {
+        "academic_id": "194677",
+        "phone": "(35) 9986-79121",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": [
+            5
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 543,
+    "fields": {
+        "academic_id": "236485",
+        "phone": "(19) 9977-47929",
+        "emergency_contact": "Luana",
+        "emergency_phone": "(21) 9870-05003",
+        "degree_area": [
+            1,
+            6
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 544,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 545,
+    "fields": {
+        "academic_id": "25360",
+        "phone": "(61) 9927-70770",
+        "emergency_contact": "Arthur Barata",
+        "emergency_phone": "(61) 9925-73332",
+        "degree_area": [
+            1
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 546,
+    "fields": {
+        "academic_id": "267050",
+        "phone": "(61) 8678-2450",
+        "emergency_contact": "Vilca Moreira Catarino Ferreira",
+        "emergency_phone": "(61) 9460-3233",
+        "degree_area": [
+            2
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 547,
+    "fields": {
+        "academic_id": "180097",
+        "phone": "(11) 9819-30495",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": [
+            1
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 548,
+    "fields": {
+        "academic_id": "",
+        "phone": "(19) 9973-33595",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": [
+            1
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 549,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 550,
+    "fields": {
+        "academic_id": "198750",
+        "phone": "(11) 9984-22296",
+        "emergency_contact": "Ademar",
+        "emergency_phone": "(11) 9685-31230",
+        "degree_area": [
+            6
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 551,
+    "fields": {
+        "academic_id": "212963",
+        "phone": "(12) 9961-40303",
+        "emergency_contact": "Julia Carvalho",
+        "emergency_phone": "(12) 9976-81391",
+        "degree_area": [
+            6
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 552,
+    "fields": {
+        "academic_id": "",
+        "phone": "(19) 9988-63282",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": [
+            6
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 553,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 554,
+    "fields": {
+        "academic_id": "241204",
+        "phone": "(19) 9889-78591",
+        "emergency_contact": "Adriana Dotta",
+        "emergency_phone": "(19) 9927-68105",
+        "degree_area": [
+            5
+        ]
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 558,
+    "fields": {
+        "academic_id": "326674",
+        "phone": "",
+        "emergency_contact": "Juliana",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 560,
+    "fields": {
+        "academic_id": "271151",
+        "phone": "",
+        "emergency_contact": "Vera",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 562,
+    "fields": {
+        "academic_id": "2021006609",
+        "phone": "",
+        "emergency_contact": "+5592986129910",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 563,
+    "fields": {
+        "academic_id": "329273",
+        "phone": "",
+        "emergency_contact": "- Thais",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 564,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 565,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 566,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+},
+{
+    "model": "users.userprofile",
+    "pk": 567,
+    "fields": {
+        "academic_id": "",
+        "phone": "",
+        "emergency_contact": "",
+        "emergency_phone": "",
+        "degree_area": []
+    }
+}
+]
