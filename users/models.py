@@ -2,6 +2,7 @@ from django.db import models
 from django.contrib.auth.models import AbstractUser, Group
 from django.utils.translation import gettext_lazy as _
 from django.utils import timezone
+from django.db import models
 
 class User(AbstractUser):
     """
@@ -96,10 +97,7 @@ class UserProfile(models.Model):
         """
         required_fields = ['degree_area', 'phone', 'emergency_contact', 'emergency_phone']
         return all(getattr(self, field) for field in required_fields)
-    
-    from django.db import models
-from django.utils import timezone
-from django.utils.translation import gettext_lazy as _     
+      
 
 class DegreeArea(models.Model):
     """

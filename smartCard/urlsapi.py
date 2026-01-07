@@ -15,3 +15,9 @@ urlpatterns = [
     path('', include(router.urls)),
     path("userAuth2/", UserViewSetApi.as_view({'get': 'list'})),
 ]
+
+
+# criar endpoint do upload, acessar o endpoint do users dentro da função "tentar_vincular_user_auth"
+# alterar o algoritimo para fazer a busca com o thefuzz
+# lembrar de usar o frontend do projeto "docker"
+# verificar endpoints acessados pelo frontend 
