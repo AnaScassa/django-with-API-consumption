@@ -27,9 +27,11 @@ class Usuario(models.Model):
 
         matricula = str(self.matricula).strip()
 
-        url = "http://localhost:8000/api/users/user-profile/"
+        url = "http://localhost:8000/api/acesso/usuarios"
         headers = {
-            "X-Api-Key": "<API_KEY>"
+            "X-Api-Key": "pbkdf2_sha256$1200000$aonByYw2GbwuyDvrGd1z9w$4x5BO477iAMn69G1gs3W1C3n1ZmLwxHpBZoKFII+QV0=",
+            "Authorization": "Api-Key t37FhVxu.ZLsNAnOIlAwhFatVRVNWnNNEzX2UPRK1",
+
         }
 
         try:

@@ -30,5 +30,8 @@ class AcessoViewSet(viewsets.ModelViewSet):
 class UsuarioViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Usuario.objects.all().order_by("nome_usuario")
     serializer_class = UsuarioSerializer 
-    permissions_classes = [ IsAuthenticated | HasAPIKey]
+    permissions_classes = [ IsAuthenticated | HasAPIKey ]
     authentication_classes = [JWTAuthentication]
+
+    def get_queryset(self):
+        return super().get_queryset()

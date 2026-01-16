@@ -10,6 +10,7 @@ import pandas as pd
 from smartCard.models import Acesso, Usuario
 from users.models import User
 from .serializers import UserApiSerializer, UsuarioSerializer
+from rest_framework_api_key.permissions import HasAPIKey
 
 class UserViewSetApi(viewsets.ModelViewSet):
     queryset = User.objects.all().order_by("-date_joined")
@@ -34,7 +35,7 @@ def lista_acessos(request):
 
 @api_view(['GET'])
 @authentication_classes([JWTAuthentication])
-@permission_classes([IsAuthenticated])
+@permission_classes([HasAPIKey])
 def lista_usuarios(request):
     usuarios = Usuario.objects.values(
         'id',
@@ -45,8 +46,8 @@ def lista_usuarios(request):
 
 @api_view(['POST'])
 @authentication_classes([JWTAuthentication])
-@permission_classes([IsAuthenticated])
-def carregar_acesso(request):
+@permission_classes([IsAuthenticated | HasAPIKey])
+def carregar_acesso(request): 
     print("USER:", request.user)
     print("AUTH:", request.user.is_authenticated)
 

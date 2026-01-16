@@ -1,6 +1,6 @@
 from django.urls import include, path
 from rest_framework import routers
-from smartCard.views import UserViewSetApi, carregar_acesso
+from smartCard.views import UserViewSetApi, carregar_acesso, lista_usuarios
 from smartCard.api import AcessoViewSet, GroupViewSet, UsuarioViewSet
 from rest_framework_simplejwt.views import TokenObtainPairView, TokenRefreshView
 
@@ -15,4 +15,5 @@ urlpatterns = [
     path("upload-xls/", carregar_acesso),
     path("login/", TokenObtainPairView.as_view(), name="login"),
     path("token/refresh/", TokenRefreshView.as_view(), name="token_refresh"),
+    path("lista-usuarios/", lista_usuarios, name="lista_usuarios"),
 ]
