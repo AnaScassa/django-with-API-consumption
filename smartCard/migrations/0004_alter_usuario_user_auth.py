@@ -6,7 +6,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('smartCard', '0003_alter_usuario_user_auth'),
+        ('smartcard', '0003_alter_usuario_user_auth'),
     ]
 
     operations = [

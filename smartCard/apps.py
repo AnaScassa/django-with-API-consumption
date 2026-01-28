@@ -1,5 +1,6 @@
 from django.apps import AppConfig
 
 
-class SmartcardConfig(AppConfig):
-    name = 'smartCard'
+class SmartCardConfig(AppConfig):
+    default_auto_field = 'django.db.models.BigAutoField'
+    name = 'smartcard'

@@ -6,7 +6,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('smartCard', '0001_initial'),
+        ('smartcard', '0001_initial'),
     ]
 
     operations = [

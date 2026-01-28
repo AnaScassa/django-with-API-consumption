@@ -33,7 +33,7 @@ class Migration(migrations.Migration):
                 ('desc_area', models.CharField(max_length=100)),
                 ('desc_leitor', models.CharField(max_length=100)),
                 ('ent_sai', models.CharField(max_length=10)),
-                ('usuario', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='acessos', to='smartCard.usuario', to_field='matricula')),
+                ('usuario', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='acessos', to='smartcard.usuario', to_field='matricula')),
             ],
             options={
                 'unique_together': {('usuario', 'data_acesso', 'desc_evento', 'desc_area', 'ent_sai')},

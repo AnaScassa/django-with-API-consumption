@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     "rest_framework_api_key",
-
+    "django_extensions",
     
     # OBRIGATÓRIO para o allauth
     'django.contrib.sites',
@@ -55,8 +55,8 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
  #   'allauth.socialaccount.providers.google',
 
-    'smartCard',
     'users',
+    'smartcard.apps.SmartCardConfig',
 ]
 
 SITE_ID = 1

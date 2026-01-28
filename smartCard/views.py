@@ -13,7 +13,7 @@ from rest_framework_api_key.models import APIKey
 
 import pandas as pd
 
-from smartCard.models import Acesso, Usuario
+from smartcard.models import Acesso, Usuario
 from users.models import User
 from .serializers import UserApiSerializer, UsuarioSerializer
 from rest_framework_api_key.permissions import HasAPIKey

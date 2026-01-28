@@ -3,8 +3,8 @@ from rest_framework import viewsets
 from rest_framework.permissions import IsAuthenticated
 from rest_framework_simplejwt.authentication import JWTAuthentication
 from rest_framework_api_key.permissions import HasAPIKey
-from smartCard.models import User, Acesso, Usuario
-from smartCard.serializers import (
+from smartcard.models import User, Acesso, Usuario
+from smartcard.serializers import (
     GroupSerializer,
     UserSerializer,
     AcessoSerializer,

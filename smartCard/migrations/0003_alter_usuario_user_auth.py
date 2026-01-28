@@ -8,7 +8,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('smartCard', '0002_alter_usuario_user_auth'),
+        ('smartcard', '0002_alter_usuario_user_auth'),
         migrations.swappable_dependency(settings.AUTH_USER_MODEL),
     ]
 

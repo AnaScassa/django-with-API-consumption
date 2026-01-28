@@ -1,11 +1,11 @@
 from rest_framework import serializers
-from smartCard.models import User
+from smartcard.models import User
 from django.contrib.auth.models import Group
 from django.contrib.auth.models import Group
-from smartCard.models import User
+from smartcard.models import User
 from rest_framework import serializers
-from smartCard.models import UserProfile
-from smartCard.models import Acesso, Usuario
+from smartcard.models import UserProfile
+from smartcard.models import Acesso, Usuario
 
 class UserApiSerializer(serializers.ModelSerializer):
     class Meta:
