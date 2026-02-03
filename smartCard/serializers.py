@@ -20,6 +20,7 @@ class UserApiSerializer(serializers.ModelSerializer):
             "date_joined"
         ]
 
+#!
 class UsuarioSerializer(serializers.HyperlinkedModelSerializer):
     acessos = serializers.SerializerMethodField()
     user_auth_id = serializers.SerializerMethodField() 
@@ -44,7 +45,8 @@ class UsuarioSerializer(serializers.HyperlinkedModelSerializer):
         )
 
     def get_user_auth_id(self, obj):
-        return obj.user_auth.id if obj.user_auth else None
+        return obj.user_auth if obj.user_auth is not None else None
+
 
 
 class AcessoSerializer(serializers.HyperlinkedModelSerializer):
