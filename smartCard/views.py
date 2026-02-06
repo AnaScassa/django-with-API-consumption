@@ -1,31 +1,19 @@
-from wsgiref import headers
-from xml.parsers.expat import model
-from django.shortcuts import get_object_or_404
-import requests
 from rest_framework.decorators import api_view, permission_classes, authentication_classes
 from rest_framework.response import Response
 from rest_framework import status, viewsets
 from rest_framework.permissions import IsAuthenticated
 from rest_framework_simplejwt.authentication import JWTAuthentication
-from django.utils import timezone
-from rest_framework.viewsets import ModelViewSet
-from rest_framework_api_key.models import APIKey
-import tempfile
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from .tasks import processar_xls
 from .services import salvar_arquivo_temporario
 from django.urls import reverse
 
-import pandas as pd
-
 from smartcard.models import Acesso, Usuario
 from users.models import User
-from .serializers import UserApiSerializer, UsuarioSerializer
+from .serializers import UserApiSerializer
 from rest_framework_api_key.permissions import HasAPIKey
 from .models import Usuario
-from fuzzywuzzy import fuzz
-
 
 class UserViewSetApi(viewsets.ModelViewSet):
     queryset = User.objects.all().order_by("-date_joined")
@@ -62,7 +50,6 @@ def lista_usuarios(request):
 @authentication_classes([JWTAuthentication])
 @permission_classes([IsAuthenticated | HasAPIKey])
 def carregar_acesso(request):
-
     arquivo = request.FILES.get("file")
 
     if not arquivo:

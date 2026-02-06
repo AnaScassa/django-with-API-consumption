@@ -21,24 +21,8 @@ def tentar_vincular_user_auth(usuario, users, profiles):
                 usuario.save(update_fields=["user_auth"])
                 return
 
-    if not usuario.nome_usuario:
-        return
-
-    nome_usuario = usuario.nome_usuario.lower().strip()
-    melhor = None
-    score_max = 0
-
-    for user in users:
-        nome_db = (user.get("full_name") or "").lower().strip()
-        score = fuzz.token_sort_ratio(nome_usuario, nome_db)
-
-        if score > score_max:
-            score_max = score
-            melhor = user
-
-    if melhor and score_max >= 80:
-        usuario.user_auth = melhor["id"]
-        usuario.save(update_fields=["user_auth"])
+    from .tasks import tentar_vincular_por_nome
+    tentar_vincular_por_nome.delay(usuario.id, users)
 
 def salvar_arquivo_temporario(arquivo):
     os.makedirs(settings.MEDIA_ROOT, exist_ok=True)
@@ -50,7 +34,7 @@ def salvar_arquivo_temporario(arquivo):
         for chunk in arquivo.chunks():
             destino.write(chunk)
 
-    print("ARQUIVO SALVO EM:", caminho)  
+    print("ARQUIVO SALVO EM:", caminho)
     print("EXISTE?", os.path.exists(caminho))
 
     return caminho

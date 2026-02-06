@@ -3,6 +3,7 @@ import pandas as pd
 import requests
 from .models import Usuario, Acesso
 from .services import tentar_vincular_user_auth
+from fuzzywuzzy import fuzz
 
 @shared_task(bind=True, autoretry_for=(Exception,), retry_backoff=5, retry_kwargs={"max_retries": 3})
 def processar_xls(self, caminho_arquivo):
@@ -51,7 +52,45 @@ def processar_xls(self, caminho_arquivo):
             }
         )
 
-        tentar_vincular_user_auth(usuario, users, profiles)
-
+        if usuario.user_auth == None:
+            tentar_vincular_user_auth(usuario, users, profiles)
+    users = requests.get(
+        "http://localhost:8000/api/users/user/",
+        headers=headers,
+        timeout=10
+    ).json()
 
     print("PROCESSAMENTO FINALIZADO")
+
+@shared_task
+def tentar_vincular_por_nome(usuario_id, users):
+    usuario = Usuario.objects.filter(
+        id=usuario_id,
+        user_auth__isnull=True
+    ).first()
+
+    if not usuario or not usuario.nome_usuario:
+        return False
+
+    nome_usuario = usuario.nome_usuario.lower().strip()
+    melhor = None
+    score_max = 0
+
+    for user in users:
+        nome_db = (user.get("full_name") or "").lower().strip()
+
+        if not nome_db:
+            continue
+
+        score = fuzz.token_sort_ratio(nome_usuario, nome_db)
+
+        if score > score_max:
+            score_max = score
+            melhor = user
+
+    if melhor and score_max >= 80:
+        usuario.user_auth = melhor.get("id")
+        usuario.save(update_fields=["user_auth"])
+        return True
+
+    return False
