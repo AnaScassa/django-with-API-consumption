@@ -104,3 +104,8 @@ class GroupSerializer(serializers.HyperlinkedModelSerializer):
         model = Group
         fields = ["url", "name"]
 
+class TaskSerializer(serializers.Serializer):
+    active = serializers.DictField()
+    scheduled = serializers.DictField()
+    reserved = serializers.DictField()
+    

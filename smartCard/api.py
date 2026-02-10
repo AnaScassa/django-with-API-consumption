@@ -1,4 +1,5 @@
 from django.contrib.auth.models import Group
+from rest_framework.response import Response
 from rest_framework import viewsets
 from rest_framework.permissions import IsAuthenticated
 from rest_framework_simplejwt.authentication import JWTAuthentication
@@ -10,6 +11,8 @@ from smartcard.serializers import (
     UserSerializer,
     AcessoSerializer,
     UsuarioSerializer,
+    TaskSerializer,
+    
 )
 
 class UserViewSet(viewsets.ModelViewSet):
@@ -38,3 +41,24 @@ class UsuarioViewSet(viewsets.ReadOnlyModelViewSet):
 
     def get_queryset(self):
         return super().get_queryset()
+
+
+class ListTasksApiView(viewsets.ViewSet):
+    
+    permission_classes = [IsAuthenticated | HasAPIKey]
+    authentication_classes = [JWTAuthentication, SessionAuthentication]
+
+    def list(self, request):
+        from celery import current_app
+        i = current_app.control.inspect()
+        active = i.active()
+        scheduled = i.scheduled()
+        reserved = i.reserved()
+
+        data = {
+            "active": active,
+            "scheduled": scheduled,
+            "reserved": reserved
+         }
+        serializer = TaskSerializer(data)
+        return Response(serializer.data)

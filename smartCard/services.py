@@ -3,10 +3,10 @@ import os
 import uuid
 from django.conf import settings
 
-def tentar_vincular_user_auth(usuario, users, profiles):
+def vincular_por_matricula(usuario, profiles):
     matricula = str(usuario.matricula).strip()
     if len(matricula) <= 3:
-        return
+        return False
 
     matricula_id = matricula[3:]
 
@@ -19,10 +19,9 @@ def tentar_vincular_user_auth(usuario, users, profiles):
             if user_id:
                 usuario.user_auth = user_id
                 usuario.save(update_fields=["user_auth"])
-                return
+                return True
 
-    from .tasks import tentar_vincular_por_nome
-    tentar_vincular_por_nome.delay(usuario.id, users)
+    return False
 
 def salvar_arquivo_temporario(arquivo):
     os.makedirs(settings.MEDIA_ROOT, exist_ok=True)
