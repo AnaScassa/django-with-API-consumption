@@ -1,49 +1,75 @@
-from asyncio import sleep
+from linecache import cache
 from celery import shared_task
 import pandas as pd
 import requests
 from django.utils import timezone
+
 from .models import Usuario, Acesso
 from fuzzywuzzy import fuzz
+from .services import vincular_por_matricula
+
+from django.core.cache import cache
 
 @shared_task(bind=True, autoretry_for=(Exception,), retry_backoff=5, retry_kwargs={"max_retries": 3})
 def processar_xls(self, caminho_arquivo):
+
     self.update_state(state="STARTED")
     print("PROCESSANDO:", caminho_arquivo)
 
     df = pd.read_excel(caminho_arquivo)
-    headers = {
-        "X-Api-Key": "pbkdf2_sha256$1200000$aonByYw2GbwuyDvrGd1z9w4x5BO477iAMn69G1gs3W1C3n1ZmLwxHpBZoKFIIQV0=",        
+
+    headers = { #signals
+        "X-Api-Key": "pbkdf2_sha256$1200000$aonByYw2GbwuyDvrGd1z9w4x5BO477iAMn69G1gs3W1C3n1ZmLwxHpBZoKFIIQV0=",
         "Authorization": "Api-Key xb8vL1sU.wnTtzS31MbyyKeRICGTxTfvHKuxTSBt0",
     }
 
-    profiles = requests.get(
-        "http://localhost:8000/api/users/user-profile/",
-        headers=headers,
-        timeout=10
-    
-    ).json()
+    profiles = cache.get("profiles")
+    users = cache.get("users")
 
-    users = requests.get(
-        "http://localhost:8000/api/users/user/",
-        headers=headers,
-        timeout=10
-    ).json()
+    if not profiles or not users:
+        print("Buscando da API...")
 
+        profiles = requests.get(
+            "http://localhost:8000/api/users/user-profile/",
+            headers=headers,
+            timeout=10
+        ).json()
+
+        users = requests.get(
+            "http://localhost:8000/api/users/user/",
+            headers=headers,
+            timeout=10
+        ).json()
+
+        cache.set("profiles", profiles, timeout=600)
+        cache.set("users", users, timeout=600)
+
+    print("Profiles carregados:", len(profiles))
+    print("Users carregados:", len(users))
 
     for _, row in df.iterrows():
         matricula = str(row.get("MATRICULA", "")).strip()
-        categoria = matricula[:3]
+
+        if "NOME_ALUNO" in df.columns:
+            nome_usuario = row.get("NOME_ALUNO", "")
+            categoria = matricula[:3]
+        elif "NOME_FUNCIONARIO" in df.columns:
+            nome_usuario = row.get("NOME_FUNCIONARIO", "")
+            categoria = "FUNCIONARIO"
+        else:
+            nome_usuario = "Desconhecido"
 
         usuario, _ = Usuario.objects.get_or_create(
             matricula=matricula,
             defaults={
-                "nome_usuario": row.get("NOME_ALUNO", "Desconhecido"),
-                "categoriaUsuario": categoria
+                "nome_usuario": nome_usuario,
+                "categoriaUsuario": categoria,
             }
         )
 
+
         data = timezone.make_aware(pd.to_datetime(row.get("DATA")))
+
         Acesso.objects.get_or_create(
             usuario=usuario,
             data_acesso=data,
@@ -56,17 +82,21 @@ def processar_xls(self, caminho_arquivo):
         )
 
         if usuario.user_auth is None:
-            tentar_vincular_user_auth.delay(usuario.id, profiles, users)
+            tentar_vincular_user_auth.delay(usuario.id)
 
-    
     print("PROCESSAMENTO FINALIZADO")
 
+
 @shared_task(bind=True)
-def tentar_vincular_user_auth(self, usuario_id, profiles, users):
+def tentar_vincular_user_auth(self, usuario_id):
     self.update_state(state="STARTED")
-    from .models import Usuario
-    from .services import vincular_por_matricula
-    import requests
+
+    profiles = cache.get("profiles")
+    users = cache.get("users")
+
+    if not profiles or not users:
+        print("Cache vazio!")
+        return False
 
     usuario = Usuario.objects.filter(
         id=usuario_id,
@@ -75,19 +105,24 @@ def tentar_vincular_user_auth(self, usuario_id, profiles, users):
 
     if not usuario:
         return False
-  
 
     vinculou = vincular_por_matricula(usuario, profiles)
 
     if not vinculou:
-        tentar_vincular_por_nome.delay(usuario.id, users)
+        tentar_vincular_por_nome.delay(usuario.id)
 
     return vinculou
 
 @shared_task(bind=True)
-def tentar_vincular_por_nome(self, usuario_id, users):
+def tentar_vincular_por_nome(self, usuario_id):
     self.update_state(state="STARTED")
-    
+
+    users = cache.get("users")
+
+    if not users:
+        print("Cache users vazio!")
+        return False
+
     usuario = Usuario.objects.filter(
         id=usuario_id,
         user_auth__isnull=True
